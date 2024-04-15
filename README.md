@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/CodeceptJS-ffe680?style=flat-square&logo=CodeceptJS&logoColor=blue"/>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KangSeongJun98)
 
 <!--
 **futureStudyRepo/futureStudyRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
