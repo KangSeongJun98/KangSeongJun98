@@ -33,9 +33,6 @@
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=Testing-Library&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeceptJS-ffe680?style=flat-square&logo=CodeceptJS&logoColor=blue"/>
 </p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KangSeongJun98)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangSeongJun98&layout=compact)
 <!--
 **futureStudyRepo/futureStudyRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
