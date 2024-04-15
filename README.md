@@ -1,6 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=SeongJun&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 <br>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   <h3 align="center">Tech Stack 🛠</h3>
