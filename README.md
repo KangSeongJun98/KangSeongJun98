@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=Testing-Library&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeceptJS-ffe680?style=flat-square&logo=CodeceptJS&logoColor=blue"/>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KangSeongJun98)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangSeongJun98&layout=compact)
   </p>
 
 <!--
