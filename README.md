@@ -22,6 +22,7 @@
 
   </br>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=FLASK&logoColor=white"/>
   
   </br>
